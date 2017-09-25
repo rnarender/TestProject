@@ -1,0 +1,7 @@
+*.md
+*.suo
+*.nupkg
+WKCompressor/WKCompressor/bin/
+WKCompressor/WKCompressor/obj/
+WKCompressor/packages/
+WKCompressor/.vs/
