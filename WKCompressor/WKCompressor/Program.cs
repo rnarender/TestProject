@@ -90,5 +90,6 @@ namespace WKCompressor
             logger.Log(LogLevel.Error, e.ExceptionObject.ToString());
             //StopwatchMain.Stop();
         }
+		
     }
 }
