@@ -13,6 +13,7 @@ namespace WKCompressor
 {
     class Program
     {
+		
         const byte TerminateSeconds = 5;
         const byte DotsInBetween = 3;
         static Stopwatch StopwatchMain = new Stopwatch();
