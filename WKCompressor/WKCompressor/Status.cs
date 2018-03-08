@@ -9,4 +9,7 @@ namespace WKCompressor
     class Status
     {
     }
+	
+	
+	
 }
